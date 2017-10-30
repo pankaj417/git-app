@@ -27,29 +27,25 @@ I have given a link in the header right section ```Want to Try Other User?``` th
 
 Packages used
 Dev dependencies
-	Babel-cli with babel-preset-es2015 to transpile ES6
-	nodemon - to restart server when we change any file in specified folder
-	webpack, webpack-dev-middleware, webpack-dev-server create bundle from client folder    
-	babel-loader for webpack
-	babel-preset-react  to make babel understand react
-	react-hot-loader  to teach reach application to reload on change
-	webpack-hot-middleware reload application on change
-
+  * Babel-cli with babel-preset-es2015 to transpile ES6
+  * nodemon - to restart server when we change any file in specified folder
+  * webpack, webpack-dev-middleware, webpack-dev-server create bundle from client folder     
+  * babel-loader for webpack 
+  * babel-preset-react  to make babel understand react 
+  * react-hot-loader  to teach reach application to reload on change 
+  * webpack-hot-middleware reload application on change 
 
 Dependencies
-	Express - Node.js web application framework
-	react
-	prop-types
-	react-dom
-	shortid for generating unique ids
-	validator for validating form inputs
-	axios for http calls from client
-	classnames for conditional applying css classes
-	lodash JavaScript utility library
-	react-redux
-    react-router
-    redux
-    redux-thunk
-
-
-
+  * Express - Node.js web application framework
+  * react
+  * prop-types
+  * react-dom
+  * shortid for generating unique ids
+  * validator for validating form inputs
+  * axios for http calls from client
+  * classnames for conditional applying css classes
+  * lodash JavaScript utility library
+  * react-redux
+  * react-router
+  * redux
+  * redux-thunk
