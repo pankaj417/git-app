@@ -1,0 +1,6 @@
+export const ADD_FLASH_MESSAGE = 'ADD_FLASH_MESSAGE';
+export const DELETE_FLASH_MESSAGE = 'DELETE_FLASH_MESSAGE';
+export const GIT_SIGNIN = 'GIT_SIGNIN';
+export const SET_REPOS = 'SET_REPOS';
+export const SET_ISSUES = 'SET_ISSUES';
+export const SET_ISSUES_SEQUENCE = 'SET_ISSUES_SEQUENCE';
